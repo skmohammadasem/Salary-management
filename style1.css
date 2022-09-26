@@ -1,0 +1,22 @@
+body {
+    background-image: url("picture2.jpg");
+    color: rgb(116, 25, 25);
+    font-style:bold;
+    text-align: center;
+}
+}
+.submit-btn {
+    background-color: rgba(151, 101, 209, 0.37);
+    color: rgba(256,256,256,0.7);
+    border:0;
+    border-radius: 15px;
+    display: block;
+    margin: 15px auto; 
+    padding: 10px 45px;
+    width: 20%;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    opacity: 10;
+    visibility: visible;
+}
